@@ -29,4 +29,4 @@ python web_scraper.py
 4. Check your folder for a newly created file named `scraped_title.txt` to view your automated results!
 
 ## Acknowledgements
-Developed as part of the Python Programming Internship at [CodeAlpha](https://www.codealpha.tech/).
+Developed as part of the Python Programming Internship at [CodeAlpha]
